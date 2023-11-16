@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+   --primary-color: #27282B;
+   --background-color: #201E1E;
+   --accent-color: #55EC20;
+   --text-color: #EBEBEB;
+   --font-family: 'Roboto', sans-serif;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: var(--primary-color);
+   color: var(--text-color);
+   font-family: var(--font-family);
+}
+
+
+
+
+
+nav ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+   display: flex;
+   justify-content: space-around;
+   color: var(--text-color);
+} 
+
+ nav li {
+   margin: 10px;
+}
+
+a {
+   color: var(--text-color);
+}
+
+a:hover {
+   color: var(--accent-color);
+}
+
+header {
+   background-color: var(--background-color);
+} 
+
+
+footer {
+   text-align: center;
+   padding: 10px;
+   background-color: var(--background-color);
+} */
+
+ span {
+   color: var(--accent-color);
+}
+
+h1 {
+   padding: 20px;
+   text-align: left;
+   color: var(--accent-color);
+} */
+
+ .logo {
+   width: 100%;
+   display: flex;
+   padding: 1rem;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.gearLogo,
+.ELlogo {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;      /*bez cvetniy */
+
+}
+
+.ELlogo {
+   margin-right: 3rem;
+
+}
