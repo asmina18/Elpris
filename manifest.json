@@ -8,18 +8,7 @@
    "background_color": "#ffffff",
    "theme_color": "#ffffff",
    "orientation": "portrait-primary",
-   "screenshots":[
-    {
-      "src":"assets/",
-      "sizes": "",
-      "type": "",
-      "form_factor": "",
-      "label": ""
-    }
-   ],
-
-
-
+   
    "icons": [
      {
        "src": "assets/appIcons/windows11/SmallTile.scale-100.png",
